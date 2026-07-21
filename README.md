@@ -7,7 +7,9 @@
 ---
 
 ## 🚀 About Me
-**BSCS Graduate 2025** with a strong foundation in **Django, Python, MySQL, PostgreSQL, and SQL databases**. Passionate about **backend development, database management, and AI-driven applications**. Skilled in **building scalable web applications** and optimizing database performance.
+**Computer Science graduate** experienced in building scalable backend systems, AI agents, RAG pipelines, and workflow 
+automations with Python, Django, and FastAPI. Skilled in integrating LLMs (OpenAI, Gemini, Claude) into multi-agent 
+systems, managing PostgreSQL/Supabase databases, and building web scraping pipelines with Selenium and Kafka. 
 
 ---
 
