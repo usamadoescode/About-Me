@@ -28,48 +28,24 @@ systems, managing PostgreSQL/Supabase databases, and building web scraping pipel
 ---
 
 ## 📂 Projects
-
+KEY PROJECTS 
+RAG Food AI Chatbot: Django, LangChain, and Gemini-powered platform for AI food recommendations with 
+budget/rating filters and profanity-filtered reviews. [Live] 
+Student Counseling Multi-Agent System: GPT-4o-mini orchestrator routing queries to specialized University and 
+Scholarship agents, backed by a Django REST API and SQLite database. 
+RAG AI Chatbot – Customer Review Insights: Scrapes 750K+ Facebook group reviews into a Supabase Vector DB via 
+Gemini embeddings; n8n webhook and Groq agent answer queries in real time. [Live] 
 ### 🔹 Final Year Project - AI-Powered Food Recommendation System
 An AI-driven food recommendation platform that enhances dining experiences by allowing users to **discover restaurants, read and share reviews, and get personalized meal suggestions**.
-
-#### Features:
-- **Food Reviews:** Users can share their experiences and read reviews from others.
-- **AI-Powered Search:** Intelligent food search for queries like:
-  - *"Best Zinger burger under 500 rupees"*
-  - *"Suggest some places to eat pizza"*
-  - *"What people are saying about KFC's newly launched K Zing Burger?"*
-- **Restaurant Discovery:** Browse **200+ restaurants** and **1,000+ menu items**.
-- **Meal Planning:** Plan meals based on dietary preferences, budget, and available options.
-
-
-## 🚀 QuickBizz – Django B2B Platform  
-**Tech Stack:** Django, Python, SQLite, HTML, CSS
-
-- ✅ Django-based **B2B product-sharing** platform for inter-business collaboration.  
-- 📦 Businesses can **list products**, **browse others**, and **request items** not in stock.  
-- 🔄 Includes **product request management**, **real-time tracking**, and **notifications**.
-- 🌐 Watch Demo: [QuickBizz](https://drive.google.com/file/d/1mYYteNAO3UQrnowQrizXfDMf70lFUN-c/view?usp=sharing)
-
----
-
-
-### 🔹 To-Do Application (Django)
-- A simple **task management system** where users can **add, edit, and delete tasks with user authentication Register/Signin/Logout**.
-- ✅ Successfully deployed on **Vercel** using **Neon Postgres Cloud Database**.  
-- 🌐 Live App: [To-Do App](https://whatdoing-usamadoescodes-projects.vercel.app/)
-
-### 🔹 Grocery Management System (Java, SQL, GUI)
-- A **CRUD-based application** for managing grocery inventory.
-- Staff can **add, update, delete products** and **generate bills**.
-
 ---
 
 ## 📚 Education
 🎓 **BS Computer Science** - SZABIST Hyderabad  
-📊 **GPA:** 3.33  
+📊 **GPA:** 3.39
 
 ---
 
 ## 📬 Contact
+usamaathebo@gmail.com
 📧 Email: [usamaathebo@gmail.com](mailto:usamaathebo@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/usamadoescode](https://linkedin.com/in/usamadoescode)
